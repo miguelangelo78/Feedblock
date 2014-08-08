@@ -1,0 +1,102 @@
+body{
+	font-family: arial;
+	background:url(../img/background.png);
+}
+#sloganwelcometitle{
+	color:white;
+	font-family: Geneva, Tahoma, Verdana, sans-serif;
+	font-size: 13px;
+}
+#welcometitle{
+	color:white;
+	font-size:50px;
+	font-family: Geneva, Tahoma, Verdana, sans-serif;
+}
+#welcome_form{
+	background-color:#7089cf;
+	display:block;
+	width:400px;
+	text-align: center;
+	border-radius: 2px;
+	padding:20px 30px 30px 30px;
+	margin-top:3%;
+	box-shadow: 0px 0px 2px #000000;
+	text-shadow:1px 1px #465580;
+}
+#login_tbl{
+	display:block;
+	margin-top:2%;
+	border-radius:5px;
+	box-shadow: 0px 0px 30px #000000;
+}
+#notregistered{
+	font-size: 11px;
+	width:300px;
+	height:30px;
+	display:block;
+	margin-top:10px;
+	color:white;
+}
+#registerbtn{
+	cursor:pointer;
+	background-color:#7089cf;
+	color:white;
+	border-radius:3px;
+	padding:3px 8px 3px 8px;
+	margin-left:3px;
+	font-size:13px;
+}
+#registerbtn:active{
+	position: relative;
+	top:1px;
+}
+#loginbtn{
+	display:inline-block;
+	cursor:pointer;
+	background-color:#7089cf;
+	color:white;
+	border-radius:3px;
+	padding:3px 8px 3px 8px;
+	margin-left:3px;
+	font-size:12px;
+}
+#loginbtn:active{
+	position: relative;
+	top:1px;
+}
+#title_regpage{
+	background:#7089cf;
+	padding:11px 25px 5px 25px;
+	font-size:20px;
+	color:white;
+}
+#registration_form{
+	margin-top:3%;
+	color:black;
+	background-color:white;
+	width:300px;
+	padding:10px 0px 10px 0px;
+	box-shadow: 0px 0px 30px #000000;
+}
+#registration_table{
+	color:black;
+}
+#goback_btn{
+	margin-top:5px;
+	padding:5px 5px 5px 10px;
+	width:50px;
+	display:block;
+	background-color:#7089cf;
+	cursor:pointer;
+	border-radius:2px;
+	font-size:11px;
+	color:white;
+}
+#successmsg{
+	position:fixed;
+	display:block;
+	width:200px;
+	font-size:12px;
+	margin-left:70px;
+	margin-top:-20px;
+}

@@ -1,0 +1,109 @@
+#contact_return{
+	padding:3px 0px 0px 0px;
+	width:60px;
+	height:25px;
+	color:#FFFFFF;
+	background-color:#7089cf;
+	border-style:solid;
+	border-width: 1px;
+	border-color:#6073A8;
+	border-radius:2px;
+	font-family: arial;
+	font-size:15px;
+	cursor:pointer;
+	text-align: center;
+}
+#contact_submit{
+	display:inline-block;
+	padding:5px 0px 0px 0px;
+	width:60px;
+	height:25px;
+	color:#FFFFFF;
+	background-color:#7089cf;
+	border-style:solid;
+	border-width: 1px;
+	border-color:#6073A8;
+	border-radius:2px;
+	font-family: arial;
+	font-size:15px;
+	cursor:pointer;
+	text-align: center;
+}
+#contact_info{
+	font-size:15px;
+	font-family: arial;
+	color:black;
+	background-color:white;
+	width:420px;
+	padding:10px 0px 10px 0px;
+	box-shadow: 0px 0px 30px #000000;
+	margin-left: auto;
+	margin-right:auto;
+	padding:10px 10px 3px 10px;
+}
+#welcome_contact{
+	background-color:#7089cf;
+	display:block;
+	width:400px;
+	text-align: center;
+	border-radius: 2px;
+	padding:20px 30px 30px 30px;
+	margin-top:3%;
+	box-shadow: 0px 0px 2px #000000;
+	text-shadow:1px 1px #465580;
+	color:white;
+	font-size:50px;
+	font-family: arial;
+	margin-bottom: 25px;
+	margin-left: auto;
+	margin-right:auto;
+}
+#opinion_text{
+	font-family: arial;
+	font-size: 13px;
+}
+
+#about_return{
+	padding:3px 0px 0px 0px;
+	width:60px;
+	height:25px;
+	color:#FFFFFF;
+	background-color:#7089cf;
+	border-style:solid;
+	border-width: 1px;
+	border-color:#6073A8;
+	border-radius:2px;
+	font-family: arial;
+	font-size:15px;
+	cursor:pointer;
+	text-align: center;
+}
+#welcome_about{
+	background-color:#7089cf;
+	display:block;
+	width:400px;
+	text-align: center;
+	border-radius: 2px;
+	padding:20px 30px 30px 30px;
+	margin-top:3%;
+	box-shadow: 0px 0px 2px #000000;
+	text-shadow:1px 1px #465580;
+	color:white;
+	font-size:50px;
+	font-family: arial;
+	margin-bottom: 25px;
+	margin-left: auto;
+	margin-right:auto;
+}
+#about_info{
+	font-size:14px;
+	font-family: arial;
+	color:black;
+	background-color:white;
+	width:420px;
+	padding:10px 0px 10px 0px;
+	box-shadow: 0px 0px 30px #000000;
+	margin-left: auto;
+	margin-right:auto;
+	padding:10px 10px 3px 10px;
+}
